@@ -31,4 +31,4 @@ ECE 649 Generative AI · Fall 2026 · Jesica Garcia
 
 
 ## Current status
-**Preliminary steps for the project.** Next: defining the test set and collecting the dataset.
+**Generating baseline images** Next: collecting and captioning the dataset

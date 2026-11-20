@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "paintbypixel"
+version = "0.1.0"
+description = "Fine-tuned Stable Diffusion for cozy pixel-art sprites and color-by-number puzzles (ECE 649 final project)"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]
