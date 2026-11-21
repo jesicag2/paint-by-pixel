@@ -1,0 +1,201 @@
+file,prompt_id,category,subject,seed,seconds,nsfw_flag
+000_s0.png,0,food,strawberry shortcake slice,0,8.796,0
+000_s1.png,0,food,strawberry shortcake slice,1,4.228,1
+000_s2.png,0,food,strawberry shortcake slice,2,4.262,0
+000_s3.png,0,food,strawberry shortcake slice,3,4.284,0
+001_s0.png,1,food,bowl of ramen with egg,0,4.319,0
+001_s1.png,1,food,bowl of ramen with egg,1,4.347,0
+001_s2.png,1,food,bowl of ramen with egg,2,4.362,0
+001_s3.png,1,food,bowl of ramen with egg,3,4.404,0
+002_s0.png,2,food,pink frosted donut with sprinkles,0,4.455,0
+002_s1.png,2,food,pink frosted donut with sprinkles,1,4.477,0
+002_s2.png,2,food,pink frosted donut with sprinkles,2,4.475,0
+002_s3.png,2,food,pink frosted donut with sprinkles,3,4.487,0
+003_s0.png,3,food,cup of boba tea,0,8.329,0
+003_s1.png,3,food,cup of boba tea,1,4.356,0
+003_s2.png,3,food,cup of boba tea,2,4.390,0
+003_s3.png,3,food,cup of boba tea,3,4.446,0
+004_s0.png,4,food,stack of pancakes with butter,0,4.472,0
+004_s1.png,4,food,stack of pancakes with butter,1,4.470,0
+004_s2.png,4,food,stack of pancakes with butter,2,4.491,0
+004_s3.png,4,food,stack of pancakes with butter,3,4.512,0
+005_s0.png,5,food,onigiri rice ball,0,4.535,0
+005_s1.png,5,food,onigiri rice ball,1,4.552,0
+005_s2.png,5,food,onigiri rice ball,2,4.923,0
+005_s3.png,5,food,onigiri rice ball,3,4.613,0
+006_s0.png,6,food,slice of watermelon,0,4.653,0
+006_s1.png,6,food,slice of watermelon,1,4.680,0
+006_s2.png,6,food,slice of watermelon,2,4.637,0
+006_s3.png,6,food,slice of watermelon,3,4.659,0
+007_s0.png,7,food,croissant,0,4.708,0
+007_s1.png,7,food,croissant,1,4.751,0
+007_s2.png,7,food,croissant,2,4.800,0
+007_s3.png,7,food,croissant,3,4.820,0
+008_s0.png,8,food,cupcake with a cherry on top,0,4.846,0
+008_s1.png,8,food,cupcake with a cherry on top,1,4.908,0
+008_s2.png,8,food,cupcake with a cherry on top,2,4.915,0
+008_s3.png,8,food,cupcake with a cherry on top,3,4.868,0
+009_s0.png,9,food,mug of hot cocoa with marshmallows,0,4.896,0
+009_s1.png,9,food,mug of hot cocoa with marshmallows,1,4.917,0
+009_s2.png,9,food,mug of hot cocoa with marshmallows,2,4.902,0
+009_s3.png,9,food,mug of hot cocoa with marshmallows,3,4.935,0
+010_s0.png,10,plants,potted cactus,0,4.948,0
+010_s1.png,10,plants,potted cactus,1,4.964,0
+010_s2.png,10,plants,potted cactus,2,4.980,0
+010_s3.png,10,plants,potted cactus,3,5.003,0
+011_s0.png,11,plants,small succulent in a pot,0,5.033,0
+011_s1.png,11,plants,small succulent in a pot,1,5.041,0
+011_s2.png,11,plants,small succulent in a pot,2,5.040,0
+011_s3.png,11,plants,small succulent in a pot,3,5.079,0
+012_s0.png,12,plants,monstera leaf,0,5.104,0
+012_s1.png,12,plants,monstera leaf,1,5.094,0
+012_s2.png,12,plants,monstera leaf,2,5.124,0
+012_s3.png,12,plants,monstera leaf,3,5.128,0
+013_s0.png,13,plants,sunflower,0,5.119,0
+013_s1.png,13,plants,sunflower,1,5.121,0
+013_s2.png,13,plants,sunflower,2,5.133,0
+013_s3.png,13,plants,sunflower,3,5.120,0
+014_s0.png,14,plants,red mushroom with white spots,0,5.178,0
+014_s1.png,14,plants,red mushroom with white spots,1,5.177,0
+014_s2.png,14,plants,red mushroom with white spots,2,5.219,0
+014_s3.png,14,plants,red mushroom with white spots,3,5.221,0
+015_s0.png,15,plants,pink orchid is a vase,0,5.278,0
+015_s1.png,15,plants,pink orchid is a vase,1,5.348,0
+015_s2.png,15,plants,pink orchid is a vase,2,5.460,0
+015_s3.png,15,plants,pink orchid is a vase,3,5.591,0
+016_s0.png,16,plants,hanging plant in a basket,0,5.647,0
+016_s1.png,16,plants,hanging plant in a basket,1,5.651,0
+016_s2.png,16,plants,hanging plant in a basket,2,5.613,0
+016_s3.png,16,plants,hanging plant in a basket,3,5.559,0
+017_s0.png,17,plants,bonsai tree,0,5.499,0
+017_s1.png,17,plants,bonsai tree,1,5.473,0
+017_s2.png,17,plants,bonsai tree,2,5.457,0
+017_s3.png,17,plants,bonsai tree,3,5.436,0
+018_s0.png,18,plants,four leaf clover,0,5.426,0
+018_s1.png,18,plants,four leaf clover,1,5.403,0
+018_s2.png,18,plants,four leaf clover,2,5.441,0
+018_s3.png,18,plants,four leaf clover,3,5.448,0
+019_s0.png,19,plants,cherry blossom branch,0,5.443,0
+019_s1.png,19,plants,cherry blossom branch,1,5.454,1
+019_s2.png,19,plants,cherry blossom branch,2,5.448,0
+019_s3.png,19,plants,cherry blossom branch,3,5.455,0
+020_s0.png,20,furniture,cozy armchair,0,5.445,1
+020_s1.png,20,furniture,cozy armchair,1,5.451,0
+020_s2.png,20,furniture,cozy armchair,2,5.461,0
+020_s3.png,20,furniture,cozy armchair,3,5.445,1
+021_s0.png,21,furniture,wooden bookshelf,0,5.457,0
+021_s1.png,21,furniture,wooden bookshelf,1,5.445,0
+021_s2.png,21,furniture,wooden bookshelf,2,5.454,0
+021_s3.png,21,furniture,wooden bookshelf,3,5.442,0
+022_s0.png,22,furniture,bedside lamp,0,5.450,0
+022_s1.png,22,furniture,bedside lamp,1,5.468,0
+022_s2.png,22,furniture,bedside lamp,2,5.480,0
+022_s3.png,22,furniture,bedside lamp,3,5.452,0
+023_s0.png,23,furniture,round rug,0,5.469,0
+023_s1.png,23,furniture,round rug,1,5.480,0
+023_s2.png,23,furniture,round rug,2,5.472,0
+023_s3.png,23,furniture,round rug,3,5.477,0
+024_s0.png,24,furniture,wooden stool,0,5.473,0
+024_s1.png,24,furniture,wooden stool,1,5.495,0
+024_s2.png,24,furniture,wooden stool,2,5.490,0
+024_s3.png,24,furniture,wooden stool,3,5.467,1
+025_s0.png,25,furniture,small bed with a quilt,0,5.480,0
+025_s1.png,25,furniture,small bed with a quilt,1,5.482,1
+025_s2.png,25,furniture,small bed with a quilt,2,5.510,0
+025_s3.png,25,furniture,small bed with a quilt,3,5.500,1
+026_s0.png,26,furniture,grandfather clock,0,5.496,0
+026_s1.png,26,furniture,grandfather clock,1,5.507,0
+026_s2.png,26,furniture,grandfather clock,2,5.517,0
+026_s3.png,26,furniture,grandfather clock,3,5.517,0
+027_s0.png,27,furniture,window with curtains,0,5.498,0
+027_s1.png,27,furniture,window with curtains,1,5.510,0
+027_s2.png,27,furniture,window with curtains,2,5.486,1
+027_s3.png,27,furniture,window with curtains,3,5.486,0
+028_s0.png,28,furniture,fireplace,0,5.494,0
+028_s1.png,28,furniture,fireplace,1,5.495,0
+028_s2.png,28,furniture,fireplace,2,5.465,0
+028_s3.png,28,furniture,fireplace,3,5.486,0
+029_s0.png,29,furniture,treasure chest,0,5.476,1
+029_s1.png,29,furniture,treasure chest,1,5.504,0
+029_s2.png,29,furniture,treasure chest,2,5.479,0
+029_s3.png,29,furniture,treasure chest,3,5.464,0
+030_s0.png,30,accessories,sun hat,0,5.469,0
+030_s1.png,30,accessories,sun hat,1,5.480,0
+030_s2.png,30,accessories,sun hat,2,5.468,1
+030_s3.png,30,accessories,sun hat,3,5.462,0
+031_s0.png,31,accessories,red backpack,0,5.473,0
+031_s1.png,31,accessories,red backpack,1,5.479,0
+031_s2.png,31,accessories,red backpack,2,5.488,0
+031_s3.png,31,accessories,red backpack,3,5.483,0
+032_s0.png,32,accessories,round glasses,0,5.477,0
+032_s1.png,32,accessories,round glasses,1,5.494,0
+032_s2.png,32,accessories,round glasses,2,5.506,0
+032_s3.png,32,accessories,round glasses,3,5.511,0
+033_s0.png,33,accessories,hair bow,0,5.500,0
+033_s1.png,33,accessories,hair bow,1,5.516,0
+033_s2.png,33,accessories,hair bow,2,5.513,0
+033_s3.png,33,accessories,hair bow,3,5.498,0
+034_s0.png,34,accessories,folded blanket,0,5.491,0
+034_s1.png,34,accessories,folded blanket,1,5.496,0
+034_s2.png,34,accessories,folded blanket,2,5.517,0
+034_s3.png,34,accessories,folded blanket,3,5.508,0
+035_s0.png,35,accessories,pair of sneakers,0,5.512,0
+035_s1.png,35,accessories,pair of sneakers,1,5.532,0
+035_s2.png,35,accessories,pair of sneakers,2,5.522,0
+035_s3.png,35,accessories,pair of sneakers,3,5.522,0
+036_s0.png,36,accessories,gold ring with a gem,0,5.535,0
+036_s1.png,36,accessories,gold ring with a gem,1,5.504,0
+036_s2.png,36,accessories,gold ring with a gem,2,5.474,0
+036_s3.png,36,accessories,gold ring with a gem,3,5.481,0
+037_s0.png,37,accessories,umbrella,0,5.476,0
+037_s1.png,37,accessories,umbrella,1,5.492,0
+037_s2.png,37,accessories,umbrella,2,5.487,0
+037_s3.png,37,accessories,umbrella,3,5.474,0
+038_s0.png,38,accessories,leather handbag,0,5.498,0
+038_s1.png,38,accessories,leather handbag,1,5.505,0
+038_s2.png,38,accessories,leather handbag,2,5.513,0
+038_s3.png,38,accessories,leather handbag,3,5.519,0
+039_s0.png,39,accessories,crown,0,5.509,0
+039_s1.png,39,accessories,crown,1,5.516,0
+039_s2.png,39,accessories,crown,2,5.520,0
+039_s3.png,39,accessories,crown,3,5.515,0
+040_s0.png,40,creatures,orange cat,0,5.528,0
+040_s1.png,40,creatures,orange cat,1,5.498,0
+040_s2.png,40,creatures,orange cat,2,5.483,0
+040_s3.png,40,creatures,orange cat,3,5.471,0
+041_s0.png,41,creatures,white bunny,0,5.469,0
+041_s1.png,41,creatures,white bunny,1,5.473,0
+041_s2.png,41,creatures,white bunny,2,5.457,0
+041_s3.png,41,creatures,white bunny,3,5.458,0
+042_s0.png,42,creatures,yellow duckling,0,5.491,0
+042_s1.png,42,creatures,yellow duckling,1,5.475,0
+042_s2.png,42,creatures,yellow duckling,2,5.476,0
+042_s3.png,42,creatures,yellow duckling,3,5.472,0
+043_s0.png,43,creatures,green frog,0,5.477,0
+043_s1.png,43,creatures,green frog,1,5.492,1
+043_s2.png,43,creatures,green frog,2,5.500,0
+043_s3.png,43,creatures,green frog,3,5.474,0
+044_s0.png,44,creatures,pink bird,0,5.496,0
+044_s1.png,44,creatures,pink bird,1,5.500,0
+044_s2.png,44,creatures,pink bird,2,5.506,0
+044_s3.png,44,creatures,pink bird,3,5.517,1
+045_s0.png,45,creatures,hedgehog,0,5.494,0
+045_s1.png,45,creatures,hedgehog,1,5.503,0
+045_s2.png,45,creatures,hedgehog,2,5.484,0
+045_s3.png,45,creatures,hedgehog,3,5.470,0
+046_s0.png,46,creatures,goldfish,0,5.468,0
+046_s1.png,46,creatures,goldfish,1,5.461,0
+046_s2.png,46,creatures,goldfish,2,5.488,0
+046_s3.png,46,creatures,goldfish,3,5.508,0
+047_s0.png,47,creatures,ladybug,0,5.485,0
+047_s1.png,47,creatures,ladybug,1,5.487,0
+047_s2.png,47,creatures,ladybug,2,5.513,0
+047_s3.png,47,creatures,ladybug,3,5.515,0
+048_s0.png,48,creatures,small owl,0,5.521,0
+048_s1.png,48,creatures,small owl,1,5.516,0
+048_s2.png,48,creatures,small owl,2,5.494,0
+048_s3.png,48,creatures,small owl,3,5.483,0
+049_s0.png,49,creatures,toy poodle,0,5.487,0
+049_s1.png,49,creatures,toy poodle,1,5.492,0
+049_s2.png,49,creatures,toy poodle,2,5.495,0
+049_s3.png,49,creatures,toy poodle,3,5.494,0

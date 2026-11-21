@@ -1,0 +1,33 @@
+{
+  "variant": "base",
+  "lora": null,
+  "config": {
+    "model": {
+      "base_model": "stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "lora_path": null
+    },
+    "generation": {
+      "height": 512,
+      "width": 512,
+      "num_inference_steps": 30,
+      "guidance_scale": 7.5,
+      "scheduler": "dpmpp",
+      "prompt_template": "{prompt}, pixel art sprite, single object, centered, plain white background",
+      "negative_prompt": "blurry, photo, realistic, 3d render, text, watermark, multiple objects, gradient background, shadow",
+      "seeds": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    "eval": {
+      "prompts_file": "eval/prompts.csv",
+      "out_dir": "outputs/eval"
+    }
+  },
+  "torch": "2.14.1+cu130",
+  "diffusers": "0.32.2",
+  "gpu": "Tesla T4",
+  "python": "3.13.16"
+}
